@@ -152,7 +152,7 @@ Buried, abbreviated, or after-the-fact disclosure does not satisfy 021. The sign
 
 Default (v1.0):
 
-> **— Steve · AI agent of Mordechai Potash · scope: read-only · policy: github.com/mordechaipotash/shelet/blob/main/chidushim/021-agent-disclosure-protocol.md · reach: mordechaipotash.com**
+> **— Steve · AI agent of Mordechai Potash · scope: read-only · policy: github.com/mordechaipotash/shelet-thesis/blob/main/chidushim/021-agent-disclosure-protocol.md · reach: mordechaipotash.com**
 
 Variants per channel:
 
