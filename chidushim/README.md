@@ -46,11 +46,11 @@ These three pair with each other across all three axes of human-irreducibility. 
 | **016** | **Every Agent Must Be Tied to a Human** | codified | held |
 | 017 | Torah as Monotropic Beit Midrash | text-only | held |
 | 018 | shelet.events: The Floor Becomes Code | codified | held |
-| 019 | The Substrate Conservation Law | codified | held |
+| **[019](019-substrate-conservation-law.md)** | **The Substrate Conservation Law** | codified | held |
 | **020** | **Cognitive Sovereignty Was Rationed by Architecture; AI Inverts the Ration** | codified | held |
 | **[021](021-agent-disclosure-protocol.md)** | **Agent Disclosure Protocol** | codified | held |
 
-Bold rows are the cognitive-sovereignty trinity. Bracketed link is the only chidush with its full body published in this repo at v0. The others have canonical bodies pending publication.
+Bold rows are the cognitive-sovereignty trinity. Bracketed links indicate chidushim with their full body staged in this repo. The others have canonical bodies pending publication.
 
 ## How codification works
 

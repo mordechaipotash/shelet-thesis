@@ -6,6 +6,7 @@
 
 - [Thesis](README.md): the 4-lens model and the cite-or-die law
 - [Chidushim index](chidushim/README.md): named held axioms with codification status
+- [Chidush 019 — Substrate Conservation Law](chidushim/019-substrate-conservation-law.md): the conservation law that binds L0→L3 across substrate boundaries — L3 published outward becomes the next holder's L0
 - [Chidush 021 — Agent Disclosure Protocol](chidushim/021-agent-disclosure-protocol.md): the policy that governs how AI agents acting on Mordechai's behalf must identify themselves in every outbound interaction
 
 ## The cognitive-sovereignty trinity
