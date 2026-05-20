@@ -1,0 +1,29 @@
+# shelet
+
+> SHELET — a 4-layer cognitive substrate (L0→L3) with cite-or-die discipline, designed for AI-in-the-loop systems where human ratification of held beliefs is irreducible. The slogan: 100% human choice. 100% machine execution.
+
+## Core concepts
+
+- [Thesis](README.md): the 4-lens model and the cite-or-die law
+- [Chidushim index](chidushim/README.md): named held axioms with codification status
+- [Chidush 021 — Agent Disclosure Protocol](chidushim/021-agent-disclosure-protocol.md): the policy that governs how AI agents acting on Mordechai's behalf must identify themselves in every outbound interaction
+
+## The cognitive-sovereignty trinity
+
+- Chidush 020 (input boundary): AI articulates; human ratifies what gets believed
+- Chidush 016 (existence boundary): every actor in the substrate FKs to a sovereign human
+- Chidush 021 (output boundary): every agent message identifies itself when speaking outward
+
+## Implementation
+
+- shelet-live (live substrate): https://github.com/mordechaipotash/shelet-live
+- brain-mcp (one client): https://github.com/mordechaipotash/brain-mcp
+
+## Author
+
+- Mordechai Potash, AI engineer: https://mordechaipotash.com
+- Beit Shemesh, Israel
+
+## License
+
+CC-BY-NC-ND 4.0
